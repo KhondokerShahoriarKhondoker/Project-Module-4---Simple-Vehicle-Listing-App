@@ -1,0 +1,20 @@
+[
+    {
+        "name": "BMW",
+        "type": "Cars",
+        "price": "10000",
+        "image": "https:\/\/www.bmw.com.sg\/content\/dam\/bmw\/common\/all-models\/m-series\/series-overview\/bmw-m-series-seo-overview-ms-04.jpg"
+    },
+    {
+        "name": " Mercedes-Benz C-Class 2015",
+        "type": "Mercedes",
+        "price": "100000",
+        "image": "https:\/\/motors.stylemixthemes.com\/elementor-dealer-one\/wp-content\/uploads\/sites\/22\/2015\/10\/motor-1-795x463.jpg"
+    },
+    {
+        "name": " Nissan Altima 2019",
+        "type": " Nissan ",
+        "price": "500000000",
+        "image": "https:\/\/motors.stylemixthemes.com\/elementor-dealer-one\/wp-content\/uploads\/sites\/22\/2015\/11\/nissan_altima_1-798x466.jpeg"
+    }
+]
